@@ -4,7 +4,7 @@
 
 ## 🧩 Project Overview
 
-This repository showcases a **professional Excel-based dashboard** created for a client as part of an operational reporting solution. The dashboard centralizes key project and business metrics and automates repetitive data tasks — helping stakeholders make quick, data-informed decisions. Although the actual Excel file and source data are not provided here due to client privacy, this repo documents the approach, tools, and logic used.  [oai_citation:0‡LinkedIn](https://www.linkedin.com/posts/marcin-czerkas-95150727a_project-dashboard-report-activity-7332752402183286784-2iig)
+This repository showcases a **professional Excel-based dashboard** created for a client in April 2025 as part of an operational reporting solution. The dashboard centralizes key project and business metrics and automates repetitive data tasks — helping stakeholders make quick, data-informed decisions. Although the actual Excel file and source data are not provided here due to client privacy, this repo documents the approach, tools, and logic used.  [See more](https://www.linkedin.com/posts/marcin-czerkas-95150727a_project-dashboard-report-activity-7332752402183286784-2iig)
 
 > 📊 *Screenshot or mockup placeholder*  
 > *(Add an image here once available — e.g. a dashboard screenshot you shared on LinkedIn.)*
@@ -28,7 +28,7 @@ This project leverages advanced Excel functionalities:
 - **PivotTables & Charts** — for interactive visual summaries  
 - **Dynamic dashboard design principles** for usability and clarity  
 
-These elements combine to deliver a robust reporting experience with minimal manual intervention.  [oai_citation:1‡LinkedIn](https://www.linkedin.com/posts/marcin-czerkas-95150727a_project-dashboard-report-activity-7332752402183286784-2iig)
+These elements combine to deliver a robust reporting experience with minimal manual intervention.
 
 ## 📌 Key Features
 
@@ -51,4 +51,4 @@ This project is relevant for:
 
 ## 📄 Notes
 
-This repository does not contain the dashboard file itself. Due to client privacy requirements, only documentation, a summary of tools, and possible screenshots are included. If you’d like to see more implementation details or a demo version, feel free to contact the author.  [oai_citation:2‡LinkedIn](https://www.linkedin.com/posts/marcin-czerkas-95150727a_project-dashboard-report-activity-7332752402183286784-2iig)
+This repository does not contain the dashboard file itself. Due to client privacy requirements, only documentation, a summary of tools, and possible screenshots are included. If you’d like to see more implementation details or a demo version, feel free to contact the author.
