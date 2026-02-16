@@ -6,8 +6,7 @@
 
 This repository showcases a **professional Excel-based dashboard** created for a client in April 2025 as part of an operational reporting solution. The dashboard centralizes key project and business metrics and automates repetitive data tasks — helping stakeholders make quick, data-informed decisions. Although the actual Excel file and source data are not provided here due to client privacy, this repo documents the approach, tools, and logic used.  [See more](https://www.linkedin.com/posts/marcin-czerkas-95150727a_project-dashboard-report-activity-7332752402183286784-2iig)
 
-> 📊 *Screenshot or mockup placeholder*  
-> *(Add an image here once available — e.g. a dashboard screenshot you shared on LinkedIn.)*
+![Dashboard](/Project_042025.png)
 
 ## 💡 Objective
 
