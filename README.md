@@ -39,6 +39,8 @@ While the project assets are not included, the dashboard is conceptually organiz
 - **Clean UI panels with filters and drill-downs**
 - **Export and reporting automation** for recurring reports
 
+![Data model](/data-model-dax.png)
+
 ## 🧠 Audience
 
 This project is relevant for:
