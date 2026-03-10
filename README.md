@@ -53,3 +53,5 @@ This project is relevant for:
 ## 📄 Notes
 
 This repository does not contain the dashboard file itself. Due to client privacy requirements, only documentation, a summary of tools, and possible screenshots are included. If you’d like to see more implementation details or a demo version, feel free to contact the author.
+
+![](https://komarev.com/ghpvc/?username=MarcinCzerkas&style=flat-square&label=VIEWS&style=pixel)
